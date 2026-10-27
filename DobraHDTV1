@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<tv generator-info-name="Dobra TV EPG Generator" generator-info-url="https://www.dobratv.com/">
+<tv generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V2.1 -- Jan van Straaten" generator-info-url="https://geniptv.com/">
   <channel id="Dobra HD TV 1">
     <display-name lang="bs">DOBRA HD TV 1</display-name>
   </channel>
